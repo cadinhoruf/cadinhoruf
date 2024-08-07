@@ -1,7 +1,7 @@
 # Bem-vindo à Minha Conta
 
 ## Sobre
-Olá, tenho 24 anos e me chamo Ricardo Rufino sou apaixonado por tecnologia e codar ! 
+Olá, tenho 25 anos e me chamo Ricardo Rufino sou apaixonado por tecnologia e codar ! 
 
 ## Estatísticas do GitHub
 
