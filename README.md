@@ -1,10 +1,10 @@
 # Bem-vindo à Minha Conta  
 
 ## Sobre  
-Olá, tenho 25 anos e me chamo Ricardo Rufino. Sou apaixonado por tecnologia e codar! Atualmente, estou desenvolvendo um micro SaaS para gerenciamento de estoque, o **[StoQ](https://stoq-two.vercel.app)**, e aprofundando meus estudos nos conceitos de **SOLID**. Além disso, estou aprimorando minha fluência em inglês para expandir minhas oportunidades como desenvolvedor.  
+Olá, tenho 26 anos e me chamo Ricardo Rufino. Sou apaixonado por tecnologia e codar! Atualmente, estou desenvolvendo um micro SaaS para gerenciamento de estoque, o **[StoQ](https://stoq-two.vercel.app)**. Além disso, estou aprimorando minha fluência em inglês para expandir minhas oportunidades como desenvolvedor.  
 
 ## About (English)  
-Hello! My name is Ricardo Rufino, and I’m 25 years old. I’m passionate about technology and coding! Currently, I’m developing a micro SaaS for inventory management, **[StoQ](https://stoq-two.vercel.app)**, and studying **SOLID** principles to improve my software design skills. Additionally, I’m working on improving my English fluency to expand my opportunities as a developer.  
+Hello! My name is Ricardo Rufino, and I’m 26 years old. I’m passionate about technology and coding! Currently, I’m developing a micro SaaS for inventory management, **[StoQ](https://stoq-two.vercel.app)**. Additionally, I’m working on improving my English fluency to expand my opportunities as a developer.  
 
 ## Estatísticas do GitHub  
 
