@@ -2,6 +2,8 @@
 
 ### Desenvolvedor fullstack apaixonado por criar projetos inovadores, focado em soluções escaláveis e de alta performance.
 
+[LinkedIn](https://www.linkedin.com/in/ricardo-rufinojr) | cadinhorufjr@icloud.com | cadinhorufjr@gmail.com  
+
 ## Estatísticas do GitHub  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cadinhoruf&show_icons=true&count_private=true&theme=dark)  
